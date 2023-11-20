@@ -12,16 +12,16 @@
 
 <table align='center'>
     <tr>
-        <td align='center'><img width="70" src="Images/Static/python.png" title="python"></td>
-        <td align='center'><img width="70" src="Images/Static/jupyter.png" title="jupyter"></td>
-        <td align='center'><img width="70" src="Images/Static/postgresql.png" title="postgresql"></td>
-        <td align='center'><img width="70" src="Images/Static/pandas.png" title="pandas"></td>
-        <td align='center'><img width="70" src="Images/Static/numpy.png" title="numpy"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/jupyter.png" title="jupyter"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/postgresql.png" title="postgresql"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/pandas.png" title="pandas"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>
     </tr>
     <tr>
-        <td align='center'><img width="70" src="Images/Static/aws.png" title="aws"></td>
-        <td align='center'><img width="70" src="Images/Static/github.png" title="github"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
     </tr>
 
 </table>
