@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me: https://www.linkedin.com/in/lawrence-hide-417255144/</h3>
 <p align="left">
 </p>
-
+<hr><br>
 <table align='center'>
     <tr>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
