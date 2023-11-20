@@ -16,12 +16,12 @@
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
     </tr>
     <tr>
-        <td></td> 
+
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/PowerBI.png" title="powerbi"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
-        <td></td> 
+
     </tr>
 
 </table>
