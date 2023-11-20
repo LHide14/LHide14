@@ -9,3 +9,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<table align='center'>
+    <tr>
+        <td align='center'><img width="70" src="Images/Static/python.png" title="python"></td>
+        <td align='center'><img width="70" src="Images/Static/jupyter.png" title="jupyter"></td>
+        <td align='center'><img width="70" src="Images/Static/postgresql.png" title="postgresql"></td>
+        <td align='center'><img width="70" src="Images/Static/pandas.png" title="pandas"></td>
+        <td align='center'><img width="70" src="Images/Static/numpy.png" title="numpy"></td>
+        <td align='center'><img width="70" src="Images/Static/tableau.png" title="tableau"></td>
+    </tr>
+    <tr>
+        <td align='center'><img width="70" src="Images/Static/aws.png" title="aws"></td>
+        <td align='center'><img width="70" src="Images/Static/azure.png" title="azure"></td>
+        <td align='center'><img width="70" src="Images/Static/docker.png" title="docker"></td>
+        <td align='center'><img width="70" src="Images/Static/django.png" title="django"></td>
+        <td align='center'><img width="70" src="Images/Static/html5.png" title="html5"></td>
+        <td align='center'><img width="70" src="Images/Static/css.png" title="css"></td>
+    </tr>
+    <tr>
+        <td></td>  
+        <td align='center'><img width="70" src="Images/Static/vscode.png" title="vscode"></td>
+        <td align='center'><img width="70" src="Images/Static/git.png" title="git"></td>
+        <td align='center'><img width="70" src="Images/Static/github.png" title="github"></td>
+        <td align='center'><img width="70" src="Images/Static/linux.png" title="linux"></td>
+        <td></td>
+    </tr>
+</table>
