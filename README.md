@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lawrence_hide@hotmail.co.uk**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/lawrence-hide-417255144/</h3>
 <p align="left">
 </p>
 
