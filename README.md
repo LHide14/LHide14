@@ -14,15 +14,6 @@
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/postgresql.png" title="postgresql"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/pandas.png" title="pandas"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
-
-    </tr>
-    <tr>
-        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
-        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/jupyter.png" title="jupyter"></td>
-        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/postgresql.png" title="postgresql"></td>
-        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/pandas.png" title="pandas"></td>
-        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
-
     </tr>
     <tr>
         <td></td> 
@@ -31,7 +22,6 @@
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
         <td></td> 
-        
     </tr>
 
 </table>
