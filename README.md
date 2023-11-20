@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawrence</h1>
-<h3 align="center">Data Analyst with proficiency in SQL, Python and Tableau</h3>
+<h3 align="center">Data Analyst with proficiency in SQL, Python, Tableau and Power BI</h3>
 
 - 📫 How to reach me **lawrence_hide@hotmail.co.uk**
 
