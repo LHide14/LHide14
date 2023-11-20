@@ -17,7 +17,7 @@
         <td align='center'><img width="70" src="Images/Static/postgresql.png" title="postgresql"></td>
         <td align='center'><img width="70" src="Images/Static/pandas.png" title="pandas"></td>
         <td align='center'><img width="70" src="Images/Static/numpy.png" title="numpy"></td>
-        <td align='center'><img width="70" src="Images/Static/tableau.png" title="tableau"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>
     </tr>
     <tr>
         <td align='center'><img width="70" src="Images/Static/aws.png" title="aws"></td>
