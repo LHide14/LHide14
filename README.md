@@ -21,6 +21,7 @@
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/PowerBI.png" title="powerbi"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
+        
     </tr>
 
 </table>
