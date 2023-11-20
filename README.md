@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence</h1>
 <h3 align="center">Data Analyst with proficiency in SQL, Python, Tableau and Power BI</h3>
 
-- 📫 How to reach me **lawrence_hide@hotmail.co.uk**
+📫 How to reach me **lawrence_hide@hotmail.co.uk**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/lawrence-hide-417255144/</h3>
 <p align="left">
