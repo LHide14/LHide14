@@ -16,6 +16,7 @@
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
     </tr>
     <tr>
+        <td align='center'><img width="70" src="<td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>" title="sklearn"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/PowerBI.png" title="powerbi"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
