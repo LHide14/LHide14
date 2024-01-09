@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">How to reach me: **lawrence_hide@hotmail.co.uk**</h3>
+<h3 align="left">How to reach me: lawrence_hide@hotmail.co.uk</h3>
 
 
 
